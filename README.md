@@ -2,7 +2,7 @@
 
 Free downloads of **ArcSyn**, a polyphonic synthesizer by ATIJ STUDIO with two neural capture slots
 (NAM, ATIJ Parametric, AIDA-X and GuitarML) inside its signal path, plus a mod matrix, arpeggiator,
-sequencer, effects and 302 factory presets. It comes as a standalone app and as VST3 and AU plug-ins.
+sequencer, effects and 302 factory presets. It comes as a standalone app and as VST3 and AU plug-ins, for Windows, macOS and Linux.
 
 **Get it from the website:** <https://atij666studio.github.io/atijstudio/plugins/arcsyn/>,
 or pick a file from the [latest release](../../releases/latest).
